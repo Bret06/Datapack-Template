@@ -1,0 +1,2 @@
+# Datapack Template
+ 
