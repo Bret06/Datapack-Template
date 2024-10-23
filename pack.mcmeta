@@ -1,6 +1,7 @@
 {
-  "pack": {
-    "pack_format": 8,
-    "description": "Template Made By Bret06"
-  }
+    "pack": {
+        "description": "§8Template made by §2Bret06",
+        "pack_format": 34
+    },
+    "supported_formats": [34, 48]
 }
